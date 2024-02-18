@@ -1,0 +1,1 @@
+Text file for random number guess game for Git purposes -hyp dev task 20 - git and github version control.
